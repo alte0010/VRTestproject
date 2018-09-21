@@ -37,3 +37,11 @@
     "com.unity.modules.xr": "1.0.0"
   }
 }
+{
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.4"
+  }
+}
