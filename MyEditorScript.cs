@@ -4,7 +4,7 @@ class MyEditorScript
 {
      static void PerformBuild ()
      {
-         string[] scenes = { AssetsMyScene.unity };
+         string[] scenes = { Assets/Scenes/Sample 2.unity };
          BuildPipeline.BuildPlayer(scenes, ...);
      }
 }
